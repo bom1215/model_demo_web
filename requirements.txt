@@ -1,0 +1,15 @@
+albumentations==1.1.0
+efficientnet-pytorch==0.7.1
+matplotlib
+opencv-python
+streamlit
+torch
+torchvision
+PyYAML==6.0
+
+pytorch-lightning==1.7.3
+tqdm==4.64.1
+torchmetrics==0.10.0
+transformers==4.21.2
+numpy
+pandas
