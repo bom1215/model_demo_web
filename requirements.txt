@@ -13,3 +13,4 @@ torchmetrics==0.10.0
 transformers==4.21.2
 numpy
 pandas
+lightning
