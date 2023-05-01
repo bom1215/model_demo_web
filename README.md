@@ -12,7 +12,7 @@
 - 사용한 툴 : Streamlit
 
 ## 소개
-https://user-images.githubusercontent.com/99182998/235419407-ed14b6a4-2107-4df4-8723-736916ab8a2b.mp4
+![소개영상](https://user-images.githubusercontent.com/99182998/235419407-ed14b6a4-2107-4df4-8723-736916ab8a2b.mp4)
 
 ## 주의사항
 - Model.pt 파일이 용량이 커서 깃헙 저장소에는 담지 못했다. 
